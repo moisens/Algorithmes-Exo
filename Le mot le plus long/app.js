@@ -21,13 +21,13 @@
 //2) For(2eme façon d faire)
 
 // function trouverLongueurMax(str){
-//    let laprase = str.split(' ');
+//    let laphrase = str.split(' ');
 //    //console.log(laprase);
 
 //    let longMax = 0;
-//    for(let i=0; i<laprase.length; i++){
-//       if(laprase[i].length > longMax){
-//          longMax = laprase[i].length;
+//    for(let i=0; i<laphrase.length; i++){
+//       if(laphrase[i].length > longMax){
+//          longMax = laphrase[i].length;
 //          //console.log(longMax)
 //       }
 //    }
